@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831688584666",
+    "project_id": "botgia-app-ios-android",
+    "storage_bucket": "botgia-app-ios-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831688584666:android:a040f4871dd6c88d76e4e3",
+        "android_client_info": {
+          "package_name": "com.botgia.lucas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJg0hvmumMg0QtLZKn_MUJG1v0X15ZA2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
